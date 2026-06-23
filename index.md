@@ -1,7 +1,11 @@
 ---
 layout: home
-title: Samui Bikes — Links & Updates
+title: Renting Bikes on Koh Samui — Tips, Routes & Local Know-How
 ---
 
-Curated links and updates from [samui-bikes.com](https://samui-bikes.com) —
-scooter & bike rentals on Koh Samui. New posts are added automatically.
+A growing collection of insights, experiences, and practical advice for getting
+around Koh Samui on two wheels — which bikes suit the island, how rentals and
+delivery work, the best routes, and the things worth knowing before you ride.
+
+Curated by the team at [samui-bikes.com](https://samui-bikes.com), who rent
+scooters, e-scooters, motorbikes, and bicycles across the island every day.
