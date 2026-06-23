@@ -5,6 +5,7 @@ url: https://samuibikes.github.io
 baseurl: /samui-bikes-pages
 theme: minima
 permalink: /:year/:month/:day/:title/
+future: true
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
