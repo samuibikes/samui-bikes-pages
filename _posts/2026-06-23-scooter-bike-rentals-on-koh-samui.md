@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scooter & Bike Rentals on Koh Samui"
-date: 2026-06-23 12:00:00 +0000
+date: 2026-06-23 07:36:17 +0000
 locale: EN
 image: https://samui-bikes.com/homepage-hero.webp
 ---
